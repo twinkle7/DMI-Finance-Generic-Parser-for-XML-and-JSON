@@ -2,4 +2,4 @@
 
 flask==2.2.0
 # other required dependencies
-python_version = "3.8"
+python_version = "3.9"
